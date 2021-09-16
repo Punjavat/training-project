@@ -9,5 +9,5 @@ import (
 func main() {
 	fmt.Println("Test")
 	fmt.Println("Hi-Low")
-	color.Green("HELLO")
+	color.Red("HELLO")
 }
